@@ -1,0 +1,10 @@
+/*
+Dev Dependencies: 
+
+Are installed via npm install --save-dev: 
+Only installed during development; installs all depencies packages for
+depency packages.
+
+--save is just a regular save, names depencies and places in your package.json.
+
+*/
