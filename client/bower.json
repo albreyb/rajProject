@@ -1,0 +1,20 @@
+{
+  "name": "client",
+  "version": "0.0.0",
+  "homepage": "https://github.com/albreyb/rajProject",
+  "authors": [
+    "Albrey Brown <albrey.brown@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/lib",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.2.0"
+  }
+}
